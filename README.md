@@ -1,2 +1,3 @@
-# xstate-mini
-xstate for weChat-mini-program
+# xstate-mini-bridge
+
+English | [简体中文](./README.zh-CN.md)
