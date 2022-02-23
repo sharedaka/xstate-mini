@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  xstate: ^4.30.2
+
+dependencies:
+  xstate: registry.npmmirror.com/xstate/4.30.2
+
+packages:
+
+  registry.npmmirror.com/xstate/4.30.2:
+    resolution: {integrity: sha512-nstZNgz6bzog0wut7jYFmb9ZUZmcyYszkv7f//TNu2CnKCROezOduCTGgpjWrf0W8JnAXV4wEgw5dsC9kVqMFQ==, registry: https://registry-node.aliyun.com/org/1294702425938741/registry/xdk/, tarball: https://registry.npmmirror.com/xstate/-/xstate-4.30.2.tgz}
+    name: xstate
+    version: 4.30.2
+    dev: false
